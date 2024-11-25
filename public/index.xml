@@ -1,0 +1,60 @@
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Acme Corporation</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Acme Corporation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Nov 2024 21:25:54 +0000</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+<title>Terms</title>
+<link>http://localhost:1313/terms/</link>
+<pubDate>Mon, 25 Nov 2024 21:25:54 +0000</pubDate>
+      
+      <guid>http://localhost:1313/terms/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Privacy</title>
+<link>http://localhost:1313/privacy/</link>
+<pubDate>Mon, 25 Nov 2024 21:25:50 +0000</pubDate>
+      
+      <guid>http://localhost:1313/privacy/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Credits</title>
+<link>http://localhost:1313/credits/</link>
+<pubDate>Mon, 25 Nov 2024 21:25:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/credits/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Contact</title>
+<link>http://localhost:1313/contact/</link>
+<pubDate>Mon, 25 Nov 2024 21:25:37 +0000</pubDate>
+      
+      <guid>http://localhost:1313/contact/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>About</title>
+<link>http://localhost:1313/about/</link>
+<pubDate>Mon, 25 Nov 2024 21:25:33 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+<description></description>
+<category></category></item>
+    
+  </channel>
+</rss>
